@@ -1,57 +1,99 @@
-# 👋 Hi, I'm Mario Youssef
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+</p>
 
-🎓 AI Engineer & Data Scientist | Arab Academy for Science, Technology and Maritime Transport  
-📅 Graduating: July 2025 | GPA: 3.4/4.0 (Very Good)  
-📍 Alexandria, Egypt  
-📧 marioyoussef367@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/mario-youssef-624a24280) | 💻 [GitHub](https://github.com/Mario-Youssef)
+<h1 align="center">Hi, I'm Mario Youssef 👋</h1>
+
+<p align="center"><b>AI Engineer & Data Scientist</b>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mario-Youssef&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
+
+<img align="right" alt="AI" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 💡 Who I Am
 
-I'm an **AI Engineer and Data Scientist** passionate about building real-world intelligent systems.  
-I’ve led and delivered over **10 academic projects** that combine machine learning, NLP, voice technology, and cloud services.
-
-I thrive on turning abstract ideas into working applications — especially in the fields of:
-- **Natural Language Processing**
-- **Voice-Based AI Systems**
-- **Data Analytics & Forecasting**
-- **Augmented Reality Education**
+I'm an **AI Engineer and Data Scientist** with a strong passion for solving real-world problems through intelligent systems.  
+I thrive on building solutions that merge machine learning, language understanding, statistical analysis, and interactive design.  
+With hands-on experience across the entire data pipeline — from raw data to insight to deployment — I bring a practical mindset, academic rigor, and creative problem-solving to every challenge.  
 
 ---
 
-## 🚀 Core Skills
+## 👨‍💻 About Me
 
-**Languages**: Python, JavaScript, C++, SQL  
-**AI/ML**: TensorFlow, Scikit-learn, HuggingFace, LangChain  
-**Voice & NLP**: Whisper, Gemini API, ElevenLabs, RAG  
-**Data**: Pandas, NumPy, Matplotlib, Time Series Forecasting  
-**Web**: FastAPI, MongoDB, Node.js  
-**Tools**: Git, Docker, AWS, Google Cloud, Unity AR
+🎓 B.Sc. in Artificial Intelligence — Faculty of AI, Arab Academy for Science, Technology and Maritime Transport (2021–2025)  
+📊 GPA: 3.4 / 4.0 (Very Good)  
+📍 Based in Alexandria, Egypt  
+📬 marioyoussef367@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mario-youssef-624a24280) | [GitHub](https://github.com/Mario-Youssef)
 
 ---
 
-## 📌 Featured Projects
+## 🔍 Highlight Projects
 
-| 🧠 Project | ⚙️ Stack | 📄 Description |
-|-----------|---------|----------------|
-| **AI Teacher Avatar** | Whisper, Gemini, TTS, AR, Unity | End-to-end AR learning assistant using voice commands and real-time answers |
-| **Gemini Voice Chatbot** | FastAPI, Gemini, Whisper | Voice chatbot with LLM integration and TTS response playback |
-| **Shakespeare IR Engine** | TF-IDF, BM25, Inverted Index | Search engine over Shakespeare books using classical IR techniques |
-| **Time Series Forecasting** | ARIMA, LSTM | Gold price prediction with full decomposition, ADF, and modeling pipeline |
+| 🌟 **Project** | ⚙️ **Stack** | 📄 **Description** |
+|----------------|--------------|---------------------|
+| 🧠 **Shakespeare IR Engine** | Python, TF-IDF, BM25 | Custom IR system for Shakespeare’s works with Boolean & ranked retrieval, spell correction, and evaluation. |
+| 📈 **Walmart Sales Forecasting** | Python, SARIMA, LSTM | Time series forecasting using SARIMA vs LSTM + DTW-based clustering and MSE evaluation. |
+| 🤖 **RAG Multimodal Chatbot** | LangChain, Ollama, Streamlit | Smart AI assistant with document/image/audio handling and persistent chat memory. |
+| 📊 **Job Market Dashboard** | Power BI | Interactive dashboard analyzing 9,500+ postings by skill, industry, experience, and salary. |
+| 🗃️ **Advanced DBMS Project** | PostgreSQL, Python | Full relational DB project with ERDs, joins, constraints, and CRUD via Python. |
+| 📚 **ML Classifier Comparison** | scikit-learn, Pandas | Benchmarks 6 supervised models with performance visualization and accuracy metrics. |
+| 📐 **Statistical Analysis** | Scipy, Statsmodels | T-tests, ANOVA, chi-square, and correlation analysis with real-world datasets. |
+| 🧪 **Data Mining Project** | KMeans, Apriori | Pattern discovery via clustering and association rules using mlxtend and Seaborn. |
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🔹 Programming Languages
+- Python, SQL, JavaScript, C++
+
+### 🔹 Machine Learning & Data Science
+- Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels
+
+### 🔹 Statistical & Time Series Modeling
+- ADF Test, SARIMA, LSTM, ANOVA, T-tests, Hypothesis Testing
+
+### 🔹 Databases
+- PostgreSQL, MySQL, SQLite, MongoDB
+
+### 🔹 NLP & Voice AI
+- LangChain, Whisper, ElevenLabs, HuggingFace, Gemini API
+
+### 🔹 Business Intelligence & Visualization
+- Power BI, Plotly, Seaborn
+
+### 🔹 Backend & Web
+- FastAPI, Streamlit, Node.js
+
+### 🔹 DevOps & Tools
+- Git, Docker, Google Cloud, AWS, Unity, Vuplex
 
 ---
 
 ## 📈 GitHub Stats
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario-Youssef&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mario-Youssef&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Youssef&theme=radical" />
+</p>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
-If you're looking for someone who's hands-on with AI and committed to building impact-driven tech,  
-I'm always open to new opportunities and collaborations.
+<p align="center">
+  <a href="mailto:marioyoussef367@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mario-youssef-624a24280">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-📩 Reach me at: [marioyoussef367@gmail.com](mailto:marioyoussef367@gmail.com)  
-🔗 Or connect on [LinkedIn](https://www.linkedin.com/in/mario-youssef-624a24280)
+<p align="center"><i>Whether it's modeling data, building LLM apps, or designing visual dashboards — I'm all in.</i></p>
+
