@@ -53,5 +53,5 @@ I thrive on turning abstract ideas into working applications — especially in t
 If you're looking for someone who's hands-on with AI and committed to building impact-driven tech,  
 I'm always open to new opportunities and collaborations.
 
-📩 Reach me at: [marioyoussef01@gmail.com](mailto:marioyoussef01@gmail.com)  
+📩 Reach me at: [marioyoussef367@gmail.com](mailto:marioyoussef367@gmail.com)  
 🔗 Or connect on [LinkedIn](https://www.linkedin.com/in/mario-youssef-624a24280)
